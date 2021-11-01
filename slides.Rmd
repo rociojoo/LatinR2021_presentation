@@ -191,16 +191,15 @@ knitr::include_graphics("./img/wordcloud_es_90.png")
 
 <br>
 
-<br>
-
 .center[Gracias]
 
 ```{r, echo=FALSE, warning=FALSE,message=FALSE,fig.show="hold",out.width="10%", fig.align = "center", fig.alt= "Logo de HFSP: Human Frontiers Science Program"}
 knitr::include_graphics("./img/hfsp.jpeg")
 ```
 
+https://rociojoo.github.io/LatinR2021_presentation/slides
 
-`r  icons::fontawesome$brands$"twitter-square"`  @rocio_joo
+`r  icons::fontawesome$brands$"twitter-square"`  @rocio_joo  
 
 `r  icons::fontawesome("envelope")`  rocio.joo@globalfishingwatch.org
 
